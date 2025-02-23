@@ -1,6 +1,6 @@
 .index{
 
-    background-image: url("/img/breakingBad/fondo.jpg");
+    background-image: url("../img/breakingBad/fondo.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
