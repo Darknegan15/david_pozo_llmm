@@ -12,7 +12,7 @@
 
 @font-face {
     font-family: miFuente;
-    src: url("/Trabajo 2º trimestre/Breaking Bad.ttf");
+    src: url("Breaking Bad.ttf");
 }
 
 
@@ -31,7 +31,7 @@ h1{
 }
 
 #index1{
-     background-image: url("/Trabajo 2º trimestre/img/breakingBad/logo.PNG");
+     background-image: url("/img/breakingBad/logo.PNG");
      background-size: cover;
      width: 200px;
      height: 200px;
