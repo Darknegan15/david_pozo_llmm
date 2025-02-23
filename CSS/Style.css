@@ -1,0 +1,347 @@
+.index{
+
+    background-image: url("../Trabajo 2º trimestre/img/breakingBad/fondo.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: miFuente;
+    background-color: #0c3e11;
+    
+    
+}
+
+@font-face {
+    font-family: miFuente;
+    src: url("/Trabajo 2º trimestre/Breaking Bad.ttf");
+}
+
+
+table {
+     
+   margin: auto;
+  
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(230, 222, 222);
+    margin-bottom: 3rem;
+   
+}
+
+#index1{
+     background-image: url("/Trabajo 2º trimestre/img/breakingBad/logo.PNG");
+     background-size: cover;
+     width: 200px;
+     height: 200px;
+    
+}
+
+#index2{
+    
+    background-size: cover;
+    width: 700px;
+    height: 300px;
+    border: solid 10px brown;
+    border-radius: 22px;  
+    border-style: outset;
+    margin: auto;  
+
+
+}
+
+.cuerpo{
+
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/fondo.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 10px;
+
+
+}
+
+form {
+    border: 2px solid #666;
+    background-color:#fffc;
+    margin: auto;
+    padding: 5rem; 
+    padding-left: 10rem;
+    padding-right: 10rem;
+    display: list-item;
+    
+}
+
+
+label{
+    
+    display: block;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.tabla{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #0c3e11;
+   
+}
+
+#cabecera{
+
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/cabecera.png");
+     background-size: cover;
+     width: 400px;
+     height: 200px;
+    
+}
+
+.periodica{
+    background-color: black;
+    border: 5px solid black;
+    border-spacing: 5px;
+    width: fit-content;
+    text-align: center;
+    color: black;
+    margin-top: 2rem;
+
+}
+.cel{
+    
+    width: 70px;
+   
+    overflow: hidden;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 10px;
+    line-height: 0%;
+    padding-bottom: 15px;
+    
+}
+
+
+.verde{
+    background-color: greenyellow;
+    
+}
+
+.verdeClaro{
+    background-color: #a0c25c;
+    
+}
+
+.hueso{
+    background-color: rgb(234, 235, 232);
+    
+    
+}
+
+.verdeOscuro {
+    background-color: #435325;
+    
+    
+}
+
+.amarillo{
+    background-color: #daf207;
+    
+}
+
+.verdeOscuro2{
+    background-color: #426615;
+    
+}
+
+.gris{
+    background-color: #9fa0a0;
+    
+}
+
+.verdeOscuro3{
+    background-color: #6d7b52;
+    
+}
+
+#morada{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/marieschrader.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-color: #856b91;
+    width: 70px;
+    height: 70px;
+    
+    
+    
+    
+}
+
+sub{
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#gradiente{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/hankschrader.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    width: 155px;
+    height: 320px;
+    
+}
+
+#Walter{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/walterwhite.png");
+    background-repeat: no-repeat;
+    width: 70px;
+    height: 70px;
+    background-position: center;
+    margin: auto;
+    
+    
+    
+}
+
+#Sk{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/skylerwhite.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+   
+}
+
+#Sa{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/saulgoodman.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#J{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/jessiepinkman.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#Bg{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/badger.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#He{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/hectorsalamanca.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#TS{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/tucosalamanca.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#G{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/gustavofrink.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+}
+
+#Ga{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/gale.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+}
+
+#M{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/mike.png");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    
+}
+
+.tablaPequeña{
+        background-color: black;
+        width: 850px;
+        height: 180px;
+        border: 5px solid black;
+        border-spacing: 5px;
+        margin-top: 2rem;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.celdas{
+    background-color: #c3ae39;
+    width: 70px;
+    
+    overflow: hidden;
+    border: 1px solid black;
+    text-align: center;
+    font-size: 10px;
+    line-height: 0%;
+    padding-bottom: 15px;
+    
+}
+
+#B{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/cristal.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#RV {
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/bus.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#Pi{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/pizza.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#Lz{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/pistola.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#Ti{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/calzoncillos.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#HCl{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/pocima.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#R{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/mascara.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#Fl {
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/movil.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#Pl{
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/plato.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#Fy {
+    background-image: url("/Trabajo 2º trimestre/img/breakingBad/TablaPeriódica/mosca.png");
+    background-position: center;
+    background-repeat: no-repeat;
+}
